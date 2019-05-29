@@ -7,7 +7,7 @@ public class UserEntity {
 	private Integer age = null;
 
 	public UserEntity() {
-		System.out.println("无惨构造函数.....");
+		System.out.println("无惨构造函数.....");//testest
 	}
 
 	public UserEntity(String userName, Integer age) {
